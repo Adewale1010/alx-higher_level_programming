@@ -5,3 +5,4 @@
 4-print_float.py: Python code that prints the float stored in the variable number with a precision of 2 digits
 5-print_string.py: python code that prints 3 times a string stored in the variable str, followed by its first 9 characters
 6-concat.py: Python code that prints Welcome to Holberton School!
+7-edges.py: Python code that prints the first 3 letters, last 2 letters and middle word of the word Holberton
