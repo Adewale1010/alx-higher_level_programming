@@ -8,3 +8,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 6-print_comb3.py: Pyhton code that prints all possible different combinations of two digits
 7-islower.py: Python function that checks for lowercase character
 8-uppercase.py: Python program that prints a string in uppercase followed by a new line
+9-print_last_digit.py: Python function that prints the last digit of a number
