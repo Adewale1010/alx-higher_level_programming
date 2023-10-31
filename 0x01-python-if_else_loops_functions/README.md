@@ -9,3 +9,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 7-islower.py: Python function that checks for lowercase character
 8-uppercase.py: Python program that prints a string in uppercase followed by a new line
 9-print_last_digit.py: Python function that prints the last digit of a number
+10-add.py: Python function that adds two integers and returns the result
