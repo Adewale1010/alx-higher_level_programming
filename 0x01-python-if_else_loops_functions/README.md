@@ -6,3 +6,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 4-print_hexa.py: Python program that prints all numbers from 0 to 98 in decimal and in hexadecimal
 5-print_comb2.py: Python program that prints numbers from 0 to 99
 6-print_comb3.py: Pyhton code that prints all possible different combinations of two digits
+7-islower.py: Python function that checks for lowercase character
