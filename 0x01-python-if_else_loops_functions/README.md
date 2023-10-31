@@ -10,3 +10,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 8-uppercase.py: Python program that prints a string in uppercase followed by a new line
 9-print_last_digit.py: Python function that prints the last digit of a number
 10-add.py: Python function that adds two integers and returns the result
+11-pow.py: Python function that computes a to the power of b and return the value
