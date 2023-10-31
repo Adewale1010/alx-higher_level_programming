@@ -10,3 +10,4 @@
 9-easter_egg.py: Python script that prints “The Zen of Python”, by TimPeters, followed by a new line
 10-check_cycle.c: C function that checks if a singly linked list has a cycle in it
 100-write.py: Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line
+101-compile: Script that compiles a Python script file
