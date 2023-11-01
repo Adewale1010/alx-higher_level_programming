@@ -15,3 +15,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 13-insert_number.c: C function that inserts a number into a sorted singly linked list
 100-print_tebahpla.py: Python program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase
 101-remove_char_at.py: Python program that creates a copy of the string, removing the character at the position n
+102-magic_calculation.py: Python program that matches bytecode
