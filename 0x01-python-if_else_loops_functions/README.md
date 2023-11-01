@@ -11,3 +11,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 9-print_last_digit.py: Python function that prints the last digit of a number
 10-add.py: Python function that adds two integers and returns the result
 11-pow.py: Python function that computes a to the power of b and return the value
+12-fizzbuzz.py: Python program that prints the numbers from 1 to 100 separated by a space, for multiples of three prints Fizz instead of the number and for multiples of five prints Buzz, for numbers which are multiples of both three and five prints FizzBuzz
