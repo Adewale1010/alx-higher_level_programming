@@ -14,3 +14,4 @@ My solutions to Python - if/else, loops, functions tasks at ALX SE
 12-fizzbuzz.py: Python program that prints the numbers from 1 to 100 separated by a space, for multiples of three prints Fizz instead of the number and for multiples of five prints Buzz, for numbers which are multiples of both three and five prints FizzBuzz
 13-insert_number.c: C function that inserts a number into a sorted singly linked list
 100-print_tebahpla.py: Python program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase
+101-remove_char_at.py: Python program that creates a copy of the string, removing the character at the position n
