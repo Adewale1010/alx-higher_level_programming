@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def maigic_calculation(a, b):
+def magic_calculation(a, b):
     """Match bytecode"""
     from magic calculation_102 import add, sub
 
