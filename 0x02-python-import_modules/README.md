@@ -8,3 +8,4 @@ My solutions to Python - import & modules tasks at ALX SE
 100-my_calculator.py: Python program that imports all functions from the file calculator_1.py and handles basic operations
 101-easy_print.py: Python program that prints #pythoniscool, followed by a new line, in the standard output
 102-magic_calculation.py: Python function def magic_calculation(a, b): that does exactly the same as the bytecode provided by ALX
+103-fast_alphabet.py: Python program that prints the alphabet in uppercase, followed by a new line
