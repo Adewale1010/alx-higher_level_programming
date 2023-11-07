@@ -10,3 +10,4 @@ My solutions to Python - Data Structures: Lists, Tuples tasks at ALX SE
 7-add_tuple.py: Python function that adds 2 tuples
 8-multiple_returns.py: Python function that returns a tuple with the length of a string and its first character
 9-max_integer.py: Python function that finds the biggest integer of a list
+10-divisible_by_2.py: Python function that finds all multiples of 2 in a list
