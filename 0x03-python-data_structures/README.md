@@ -7,3 +7,4 @@ My solutions to Python - Data Structures: Lists, Tuples tasks at ALX SE
 5-no_c.py: Python function that removes all characters c and C from a string
 6-print_matrix_integer.py: Python function that prints a matrix of integers
 6-print_matrix_integer.py: Python function that prints a matrix of integers
+7-add_tuple.py: Python function that adds 2 tuples
