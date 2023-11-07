@@ -8,3 +8,4 @@ My solutions to Python - Data Structures: Lists, Tuples tasks at ALX SE
 6-print_matrix_integer.py: Python function that prints a matrix of integers
 6-print_matrix_integer.py: Python function that prints a matrix of integers
 7-add_tuple.py: Python function that adds 2 tuples
+8-multiple_returns.py: Python function that returns a tuple with the length of a string and its first character
