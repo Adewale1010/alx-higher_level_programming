@@ -14,3 +14,4 @@ My solutions to Python - Data Structures: Lists, Tuples tasks at ALX SE
 11-delete_at.py: Python function that deletes the item at a specific position in a list
 12-switch.py: Python code that switches the values of a and b
 13-is_palindrome.c: C function that checks if a singly linked list is a palindrome
+100-print_python_list_info.c: C function that prints some basic info about Python lists
