@@ -7,3 +7,4 @@ My solutions to Python - More Data Structures: Set, Dictionary tasks at ALX SE
 5-number_keys.py: Python function that returns the number of keys in a dictionary
 6-print_sorted_dictionary.py: Python function that prints a dictionary by ordered keys
 7-update_dictionary.py: Python function that replaces or adds key/value in a dictionary
+8-simple_delete.py: Python function that deletes a key in a dictionary
