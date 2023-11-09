@@ -4,3 +4,4 @@ My solutions to Python - More Data Structures: Set, Dictionary tasks at ALX SE
 2-uniq_add.py: Python function that adds all unique integers in a list (only once for each integer
 3-common_elements.py: Python function that returns a set of common elements in two sets
 4-only_diff_elements.py: Python function that returns a set of all elements present in only one set
+5-number_keys.py: Python function that returns the number of keys in a dictionary
