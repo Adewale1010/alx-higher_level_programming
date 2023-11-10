@@ -11,3 +11,4 @@ My solutions to Python - More Data Structures: Set, Dictionary tasks at ALX SE
 9-multiply_by_2.py: Python function that returns a new dictionary with all values multiplied by 2
 10-best_score.py: Python function that returns a key with the biggest integer value
 100-weight_average.py: Python function that returns the weighted average of all integers tuple (<score>, <weight>)
+101-square_matrix_map.py: Python function that computes the square value of all integers of a matrix using map
