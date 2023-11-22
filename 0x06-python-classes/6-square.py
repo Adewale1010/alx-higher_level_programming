@@ -13,7 +13,7 @@ class Square:
             position (int, int): The position of the new square
         """
         self.size = size
-        self.posiiton = posiiton
+        self.posiiton = position
 
     @property
     def size(self):
