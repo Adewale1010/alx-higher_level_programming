@@ -47,3 +47,9 @@ My solutions to Python - Test-driven development tasks at ALX SE
 	Prototype: def text_indentation(text):
 	text must be a string, otherwise raise a TypeError exception with the message text must be a string
 	There should be no space at the beginning or at the end of each printed line
+
+
+5. Max integer - Unittest
+
+tests/6-max_integer_test.py: Python script that runs unittests for the function def max_integer(list=[]):.
+
