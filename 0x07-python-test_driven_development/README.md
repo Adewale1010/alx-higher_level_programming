@@ -19,3 +19,11 @@ My solutions to Python - Test-driven development tasks at ALX SE
 	div must be a number (integer or float), otherwise raise a TypeError exception with the message div must be a number
 	div can’t be equal to 0, otherwise raise a ZeroDivisionError exception with the message division by zero
 	All elements of the matrix should be divided by div, rounded to 2 decimal places
+
+
+2. Say my name
+
+	3-say_my_name.py: Python function that prints My name is <first name> <last name>
+
+	Prototype: def say_my_name(first_name, last_name=""):
+	first_name and last_name must be strings otherwise, raise a TypeError exception with the message first_name must be a string or last_name must be a string
