@@ -163,3 +163,11 @@ My solutions to Python - Everything is object tasks at ALX SE
       l2 = [4, 5, 6]
       assign_value(l1, l2)
       print(l1)
+
+
+19. Copy a list object
+
+  Write a function def copy_list(l): that returns a copy of a list.
+
+    The input list can contain any type of objects
+    Your file should be maximum 3-line long (no documentation needed)
