@@ -34,3 +34,12 @@ My solutions to Python - Everything is object tasks at ALX SE
 
     >>> a = 89
     >>> b = a + 1
+
+
+6. Is equal
+
+  What do these 3 lines print?
+
+    >>> s1 = "Best School"
+    >>> s2 = s1
+    >>> print(s1 == s2)
