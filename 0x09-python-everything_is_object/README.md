@@ -97,3 +97,12 @@ My solutions to Python - Everything is object tasks at ALX SE
     >>> l1 = [1, 2, 3]
     >>> l2 = l1
     >>> print(l1 == l2)
+
+
+13. And with a list, is it really the same
+
+  What do these 3 lines print?
+
+    >>> l1 = [1, 2, 3]
+    >>> l2 = l1
+    >>> print(l1 is l2)
