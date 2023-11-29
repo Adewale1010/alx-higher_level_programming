@@ -26,3 +26,11 @@ My solutions to Python - Everything is object tasks at ALX SE
 
     >>> a = 89
     >>> b = a
+
+
+5. Right count =+
+
+  In the following code, do a and b point to the same object? Answer with Yes or No.
+
+    >>> a = 89
+    >>> b = a + 1
