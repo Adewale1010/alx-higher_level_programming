@@ -30,3 +30,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 7. Load, add, save
 	7-add_item.py: Python script that adds all arguments to a Python list, and then save them to a file.
+
+
+8. Class to JSON
+	8-class_to_json.py: Python function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
