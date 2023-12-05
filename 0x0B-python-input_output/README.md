@@ -6,3 +6,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 1. Write to a file
 	1-write_file.py: Python function that writes a string to a text file (UTF8) and returns the number of characters written.
+
+
+2. Append to a file
+	2-append_write.py: Python function that appends a string at the end of a text file (UTF8) and returns the number of characters added.
