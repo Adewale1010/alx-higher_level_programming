@@ -18,3 +18,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 4. From JSON string to Object
 	4-from_json_string.py: Python function that returns an object (Python data structure) represented by a JSON string.
+
+
+5. Save Object to a file
+	5-save_to_json_file.py: Python function that writes an Object to a text file, using a JSON representation.
