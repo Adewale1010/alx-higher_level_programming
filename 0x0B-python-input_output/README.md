@@ -26,3 +26,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 6. Create object from a JSON file
 	6-load_from_json_file.py: Python function that creates an Object from a “JSON file”.
+
+
+7. Load, add, save
+	7-add_item.py: Python script that adds all arguments to a Python list, and then save them to a file.
