@@ -14,3 +14,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 3. To JSON string
 	3-to_json_string.py: Python function that returns the JSON representation of an object (string).
+
+
+4. From JSON string to Object
+	4-from_json_string.py: Python function that returns an object (Python data structure) represented by a JSON string.
