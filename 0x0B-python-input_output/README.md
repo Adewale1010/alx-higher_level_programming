@@ -34,3 +34,12 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 8. Class to JSON
 	8-class_to_json.py: Python function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
+
+
+9. Student to JSON
+	9-student.py: Python class Student that defines a student by:
+
+		Public instance attributes:
+			first_name
+			last_name
+			age
