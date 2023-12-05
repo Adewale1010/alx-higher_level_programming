@@ -10,3 +10,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 2. Append to a file
 	2-append_write.py: Python function that appends a string at the end of a text file (UTF8) and returns the number of characters added.
+
+
+3. To JSON string
+	3-to_json_string.py: Python function that returns the JSON representation of an object (string).
