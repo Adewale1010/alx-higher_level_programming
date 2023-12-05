@@ -73,3 +73,8 @@ My Solutions to Python - Input/Output tasks at ALX SE
 			You can assume json will always be a dictionary
 			A dictionary key will be the public attribute name
 			A dictionary value will be the value of the public attribute
+
+
+
+12. Pascal's Triangle
+	12-pascal_triangle.py: Python function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
