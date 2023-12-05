@@ -22,3 +22,7 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 5. Save Object to a file
 	5-save_to_json_file.py: Python function that writes an Object to a text file, using a JSON representation.
+
+
+6. Create object from a JSON file
+	6-load_from_json_file.py: Python function that creates an Object from a “JSON file”.
