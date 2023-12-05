@@ -78,3 +78,8 @@ My Solutions to Python - Input/Output tasks at ALX SE
 
 12. Pascal's Triangle
 	12-pascal_triangle.py: Python function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
+
+
+
+13. Search and update
+	100-append_after.py: Python function that inserts a line of text to a file, after each line containing a specific string.
