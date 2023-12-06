@@ -15,3 +15,7 @@ My Solutions to Python - Inheritance tasks at ALX SE
 
 3. Same class or inherit from
 	3-is_kind_of_class.py: Python function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
+
+
+4. Only sub class of
+	4-inherits_from.py: Python function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
