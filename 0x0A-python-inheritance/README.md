@@ -23,3 +23,7 @@ My Solutions to Python - Inheritance tasks at ALX SE
 
 5. Geometry module
 	5-base_geometry.py: Python empty class BaseGeometry.
+
+
+6. Improve Geometry
+	6-base_geometry.py: Python class BaseGeometry (based on 5-base_geometry.py).
