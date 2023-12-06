@@ -19,3 +19,7 @@ My Solutions to Python - Inheritance tasks at ALX SE
 
 4. Only sub class of
 	4-inherits_from.py: Python function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
+
+
+5. Geometry module
+	5-base_geometry.py: Python empty class BaseGeometry.
