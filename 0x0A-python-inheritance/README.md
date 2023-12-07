@@ -75,3 +75,9 @@ My Solutions to Python - Inheritance tasks at ALX SE
 			size must be a positive integer, validated by integer_validator
 		the area() method must be implemented
 		print() should print, and str() should return, the square description: [Square] <width>/<height>.
+
+
+12. My integer
+	100-my_int.py: Python class MyInt that inherits from int.
+		MyInt is a rebel. MyInt has == and != operators inverted
+
